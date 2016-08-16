@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.thymeleaf.org/xsd/thymeleaf-extras-dialect-2.1.xsd" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/26499efe_thymeleaf-extras-dialect-2.1.xsd" />
+    <ignored-resource url="https://www.owasp.org/index.php/OWASP_Dependency_Check_Suppression" />
+  </component>
+</application>

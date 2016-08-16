@@ -1,0 +1,49 @@
+<application>
+  <component name="dataSourceStorage" format="xml">
+    <data-source source="LOCAL" name="TEST - DSND JDBC" uuid="0a43b72a-a279-45e9-86f0-235d26331052">
+      <driver-ref>db2</driver-ref>
+      <jdbc-driver>com.ibm.db2.jcc.DB2Driver</jdbc-driver>
+      <jdbc-url>jdbc:db2://glhejesd.glhec.org:451/DSND</jdbc-url>
+      <default-dialect>DB2</default-dialect>
+      <driver-properties>
+        <property name="sslConnection" value="true" />
+        <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="SQL Server (Microsoft) - AwardDisb_DEV@GLSSQLMADTS2.gld-nexus.ad.glhec.org" uuid="9e2b4c32-5fd4-4ae0-9820-c25a092f7499">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://GLSSQLMADTS2.gld-nexus.ad.glhec.org:1433;databaseName=AwardDisb_DEV</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="SQL Server (Microsoft) - SpringBatch_DEV@GLSSQLMADTS2" uuid="58e22d23-dffc-4ed0-a4c7-d7bfedf5a48d">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://GLSSQLMADTS2:1433;databaseName=SpringBatch_DEV</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="DSNC" uuid="58897ab9-92f4-4e4b-a3e7-7cce17954a0d">
+      <driver-ref>db2</driver-ref>
+      <jdbc-driver>com.ibm.db2.jcc.DB2Driver</jdbc-driver>
+      <jdbc-url>jdbc:db2://GLETHNET.glhec.org:455/DSNC</jdbc-url>
+      <default-dialect>DB2</default-dialect>
+      <driver-properties>
+        <property name="sslConnection" value="true" />
+        <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="SQL Server (Microsoft) - AwardDisb_INT@GLSSQLMADTS2" uuid="7a3b608c-3a3c-4a53-ad41-ee3df7c8f4d6">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://GLSSQLMADTS2:1433;databaseName=AwardDisb_INT</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="SQL Server (Microsoft) - AwardDisb_UAT@GLSSQLMADTS2" uuid="a65d6b69-397d-4118-abd8-084af3b19564">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://GLSSQLMADTS2:1433;databaseName=AwardDisb_UAT</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="GLSSQLMADPS2" uuid="8fa3f862-f976-4b5b-8570-7b65b81f809b">
+      <driver-ref>sqlserver.ms</driver-ref>
+      <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
+      <jdbc-url>jdbc:sqlserver://GLSSQLMADPS2:1433;databaseName=AwardDisb_PROD</jdbc-url>
+    </data-source>
+  </component>
+</application>

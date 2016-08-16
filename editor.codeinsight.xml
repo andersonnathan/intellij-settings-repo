@@ -1,0 +1,8 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SHOW_SOURCE_INFERRED_ANNOTATIONS" value="false" />
+    <EXCLUDED_PACKAGE NAME="junit.framework.TestCase.assertTrue" />
+    <EXCLUDED_PACKAGE NAME="org.junit.Assert.assertTrue" />
+  </component>
+</application>

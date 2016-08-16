@@ -1,0 +1,26 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Directory 'C:\Buildworkspace\award\sds-admin-ui\sds-admin-ui-web\src\main\webapp\WEB-INF\templates'" />
+    <option name="defaultScopeName" value="Directory 'C:\Buildworkspace\award\sds-admin-ui\sds-admin-ui-web\src\main\webapp\WEB-INF\templates'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\Buildworkspace\award\sds-admin-ui\sds-admin-ui-web\src\main\webapp\WEB-INF\templates'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.xhtml</mask>
+      <mask>Adjustment*.xml</mask>
+      <mask>pom.xml</mask>
+      <mask>*.html</mask>
+      <mask>*.js</mask>
+      <mask>*.xml</mask>
+      <mask>int-env.properties</mask>
+      <mask>uat-env.properties</mask>
+      <mask>prod-env.properties</mask>
+    </recentFileMasks>
+  </component>
+</application>
