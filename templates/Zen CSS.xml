@@ -1,6 +1,7 @@
 <templateSet group="Zen CSS">
   <template name="!" value="!important" description="!important" toReformat="true" toShortenFQNames="true">
     <context>
+      <option name="CSS_PROPERTY_VALUE" value="true" />
       <option name="CSS_DECLARATION_BLOCK" value="true" />
     </context>
   </template>
