@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory 'C:\Buildworkspace\award\sds-admin-ui\sds-admin-ui-web\src\main\webapp\WEB-INF\templates'" />
     <option name="defaultScopeName" value="Directory 'C:\Buildworkspace\award\sds-admin-ui\sds-admin-ui-web\src\main\webapp\WEB-INF\templates'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory 'C:\Buildworkspace\award\sds-admin-ui\sds-admin-ui-web\src\main\webapp\WEB-INF\templates'" />
     <recentFileMasks>
       <mask>*.properties</mask>
