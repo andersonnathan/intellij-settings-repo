@@ -1,5 +1,7 @@
 <code_scheme name="GL_Code_Style">
   <option name="LINE_SEPARATOR" value="&#xD;&#xA;" />
+  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="1" />
   <option name="RIGHT_MARGIN" value="160" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <codeStyleSettings language="CSS">
