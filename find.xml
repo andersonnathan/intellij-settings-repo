@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Directory '[sds-admin-ui-web] - ...\sds-admin-ui-web\src\main\java'" />
     <option name="defaultScopeName" value="Directory '[sds-admin-ui-web] - ...\sds-admin-ui-web\src\main\java'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '[sds-admin-ui-web] - ...\sds-admin-ui-web\src\main\java'" />
     <recentFileMasks>
       <mask>*.properties</mask>
