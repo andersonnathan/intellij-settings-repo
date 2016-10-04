@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[awardManifestRead-app] - C:\Buildworkspace\award\awardmanifestread\awardManifestRead-app\src\main\java\org\mygreatlakes\awardmanifestread\component\ManifestBatchPreparedStatementSetter.java'" />
-    <option name="defaultScopeName" value="File '[awardManifestRead-app] - C:\Buildworkspace\award\awardmanifestread\awardManifestRead-app\src\main\java\org\mygreatlakes\awardmanifestread\component\ManifestBatchPreparedStatementSetter.java'" />
+    <option name="customScope" value="Project 'award-common'" />
+    <option name="defaultScopeName" value="Project 'award-common'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[awardManifestRead-app] - C:\Buildworkspace\award\awardmanifestread\awardManifestRead-app\src\main\java\org\mygreatlakes\awardmanifestread\component\ManifestBatchPreparedStatementSetter.java'" />
+    <option name="SEARCH_SCOPE" value="Project 'award-common'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
