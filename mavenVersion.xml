@@ -1,3 +1,3 @@
 <application>
-  <component name="MavenVersion" version="2.x" vmOptions="-Xmx1024m" mavenHome="C:/Buildworkspace/local_maven/apache-maven-3.3.3" loggingLevel="DEBUG" />
+  <component name="MavenVersion" version="2.x" vmOptions="-Xmx1024m" mavenHome="C:/Buildworkspace/local_maven/apache-maven-3.2.1" loggingLevel="DEBUG" />
 </application>
