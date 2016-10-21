@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <password>dfd9dfeadfc7dfd9dfdfdfc4dfcddf9bdf93df9d</password>
+          <option name="hostUrl" value="https://sonar.glhec.org" />
+          <option name="login" value="andersn" />
+          <option name="name" value="sonar.glhec.org" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
