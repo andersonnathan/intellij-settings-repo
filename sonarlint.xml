@@ -3,9 +3,8 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <password>dfd9dfeadfc7dfd9dfdfdfc4dfcddf9bdf93df9d</password>
+          <token>dfcbdf9ddfc8df9cdfcbdfcbdfcbdfcfdf99df99df98dfc8df92dfcedf98df9cdf9cdf93dfcfdf9ddf9fdf9adf98df93df9adfc9dfcbdf9bdfccdfcbdf99dfccdf99dfccdf92df9ddfcbdfc8dfcfdfcb</token>
           <option name="hostUrl" value="https://sonar.glhec.org" />
-          <option name="login" value="andersn" />
           <option name="name" value="sonar.glhec.org" />
         </SonarQubeServer>
       </list>
