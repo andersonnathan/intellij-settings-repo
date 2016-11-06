@@ -22,9 +22,21 @@
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-1.3.0.jar</url>
       </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-1.3.0.jar</url>
+      </library>
     </driver>
     <driver id="sqlserver.jtds" name="SQL Server (jTds)" dialect="TSQL">
       <option name="auto-sync" value="false" />
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-license.txt</url>
+      </library>
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-1.3.0.jar</url>
+      </library>
       <library>
         <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/jtds-license.txt</url>
       </library>
