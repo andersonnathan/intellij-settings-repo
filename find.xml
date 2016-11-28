@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'C:\Buildworkspace\award\sds-admin-ui\sds-admin-ui-web\src\main\webapp\WEB-INF\templates'" />
-    <option name="defaultScopeName" value="Directory 'C:\Buildworkspace\award\sds-admin-ui\sds-admin-ui-web\src\main\webapp\WEB-INF\templates'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory 'C:\Buildworkspace\award\sds-admin-ui\sds-admin-ui-web\src\main\webapp\WEB-INF\templates'" />
+    <option name="customScope" value="Project 'award-common'" />
+    <option name="defaultScopeName" value="Project 'award-common'" />
+    <option name="SEARCH_SCOPE" value="Project 'award-common'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
