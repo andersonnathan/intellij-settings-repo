@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'award-common'" />
-    <option name="defaultScopeName" value="Project 'award-common'" />
-    <option name="SEARCH_SCOPE" value="Project 'award-common'" />
+    <option name="customScope" value="Module 'sdsfundingprocess-app'" />
+    <option name="defaultScopeName" value="Module 'sdsfundingprocess-app'" />
+    <option name="SEARCH_SCOPE" value="Module 'sdsfundingprocess-app'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
