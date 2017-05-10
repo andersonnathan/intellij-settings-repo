@@ -1,24 +1,41 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="CompilerConfiguration">
+        <resourceExtensions />
+        <wildcardResourcePatterns>
+          <entry name="!?*.java" />
+          <entry name="!?*.form" />
+          <entry name="!?*.class" />
+          <entry name="!?*.groovy" />
+          <entry name="!?*.scala" />
+          <entry name="!?*.flex" />
+          <entry name="!?*.kt" />
+          <entry name="!?*.clj" />
+          <entry name="!?*.aj" />
+        </wildcardResourcePatterns>
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="false">
+            <processorPath useClasspath="true" />
+          </profile>
+        </annotationProcessing>
+      </component>
       <component name="CopyrightManager" default="GL_JAVA">
         <copyright>
           <option name="myName" value="GL_JAVA" />
           <option name="notice" value="This program is protected by copyright and other intellectual property law.&#10;It is proprietary to and includes confidential information of Great Lakes&#10;Higher Education Corporation and Affiliates (Great Lakes). This program may&#10;be disclosed and/or used only as authorized in a license agreement between&#10;Great Lakes and the user authorizing and controlling such use and disclosure." />
         </copyright>
       </component>
-      <component name="Encoding">
-        <file url="PROJECT" charset="UTF-8" />
+      <component name="DependencyValidationManager">
+        <scope name="GL_JAVA" pattern="*.java" />
       </component>
-      <component name="InspectionProjectProfileManager">
-        <profile version="1.0">
-          <option name="myName" value="Project Default" />
-        </profile>
-        <version value="1.0" />
+      <component name="JavaScriptSettings">
+        <option name="languageLevel" value="ES5" />
       </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
             <option name="userSettingsFile" value="T:\Edc\incubator\apache-maven-3.2.1\conf\settings.xml" />
           </MavenGeneralSettings>
         </option>
@@ -29,289 +46,35 @@
         </option>
       </component>
       <component name="NamedScopeManager">
-        <scope name="GL" pattern="file:*.java" />
+        <order>
+          <scope name="GL_JAVA" />
+        </order>
       </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-              <State>
-                <id>CollectionsScala</id>
-              </State>
-              <State>
-                <id>Abstraction issuesJava</id>
-              </State>
-              <State>
-                <id>Android &gt; Lint &gt; Correctness</id>
-              </State>
-              <State>
-                <id>Android &gt; Lint &gt; Performance</id>
-              </State>
-              <State>
-                <id>Android &gt; Lint &gt; Security</id>
-              </State>
-              <State>
-                <id>Android &gt; Lint &gt; Usability</id>
-              </State>
-              <State>
-                <id>Android Lint for Kotlin</id>
-              </State>
-              <State>
-                <id>Ant inspections</id>
-              </State>
-              <State>
-                <id>ArquillianJava</id>
-              </State>
-              <State>
-                <id>Assignment issuesGroovy</id>
-              </State>
-              <State>
-                <id>Assignment issuesJava</id>
-              </State>
-              <State>
-                <id>Assignment issuesJavaScript</id>
-              </State>
-              <State>
-                <id>Bitwise operation issuesJava</id>
-              </State>
-              <State>
-                <id>Bitwise operation issuesJavaScript</id>
-              </State>
-              <State>
-                <id>CDI(Contexts and Dependency Injection) issues</id>
-              </State>
-              <State>
-                <id>CSS</id>
-              </State>
-              <State>
-                <id>Class structureJava</id>
-              </State>
-              <State>
-                <id>Code maturity issuesJava</id>
-              </State>
-              <State>
-                <id>Code style issuesJava</id>
-              </State>
-              <State>
-                <id>Code style issuesJavaScript</id>
-              </State>
-              <State>
-                <id>CodeSpring CoreSpring</id>
-              </State>
-              <State>
-                <id>Control FlowGroovy</id>
-              </State>
-              <State>
-                <id>Control flow issuesJava</id>
-              </State>
-              <State>
-                <id>Control flow issuesJavaScript</id>
-              </State>
-              <State>
-                <id>DOM issuesJavaScript</id>
-              </State>
-              <State>
-                <id>Data flow issuesJava</id>
-              </State>
-              <State>
-                <id>Declaration redundancyJava</id>
-              </State>
-              <State>
-                <id>Django</id>
-              </State>
-              <State>
-                <id>ECMAScript 6 migration aidsJavaScript</id>
-              </State>
-              <State>
-                <id>GeneralJavaScript</id>
-              </State>
-              <State>
-                <id>GeneralScala</id>
-              </State>
-              <State>
-                <id>GrailsGroovy</id>
-              </State>
-              <State>
-                <id>Groovy</id>
-              </State>
-              <State>
-                <id>Guice Inspections</id>
-              </State>
-              <State>
-                <id>ImportsJava</id>
-              </State>
-              <State>
-                <id>Inheritance issuesJava</id>
-              </State>
-              <State>
-                <id>Initialization issuesJava</id>
-              </State>
-              <State>
-                <id>Internationalization issuesJava</id>
-              </State>
-              <State>
-                <id>Invalid elementsCSS</id>
-              </State>
-              <State>
-                <id>J2ME issuesJava</id>
-              </State>
-              <State>
-                <id>JSP Inspections</id>
-              </State>
-              <State>
-                <id>Java</id>
-              </State>
-              <State>
-                <id>Java language level migration aidsJava</id>
-              </State>
-              <State>
-                <id>JavaBeans issuesJava</id>
-              </State>
-              <State>
-                <id>JavaFX</id>
-              </State>
-              <State>
-                <id>JavaScript</id>
-              </State>
-              <State>
-                <id>JavaScript function metricsJavaScript</id>
-              </State>
-              <State>
-                <id>Javadoc issuesJava</id>
-              </State>
-              <State>
-                <id>Kotlin</id>
-              </State>
-              <State>
-                <id>Memory issuesJava</id>
-              </State>
-              <State>
-                <id>Method MetricsGroovy</id>
-              </State>
-              <State>
-                <id>Method metricsJava</id>
-              </State>
-              <State>
-                <id>Method signatureScala</id>
-              </State>
-              <State>
-                <id>Naming conventionsJavaScript</id>
-              </State>
-              <State>
-                <id>Numeric issuesJava</id>
-              </State>
-              <State>
-                <id>Options CollectionsScala</id>
-              </State>
-              <State>
-                <id>Performance issuesJava</id>
-              </State>
-              <State>
-                <id>Play</id>
-              </State>
-              <State>
-                <id>Plugin DevKit</id>
-              </State>
-              <State>
-                <id>Portability issuesJava</id>
-              </State>
-              <State>
-                <id>Potentially confusing code constructsGroovy</id>
-              </State>
-              <State>
-                <id>Potentially confusing code constructsJavaScript</id>
-              </State>
-              <State>
-                <id>Probable bugsGroovy</id>
-              </State>
-              <State>
-                <id>Probable bugsJava</id>
-              </State>
-              <State>
-                <id>Properties Files</id>
-              </State>
-              <State>
-                <id>Properties FilesJava</id>
-              </State>
-              <State>
-                <id>Python</id>
-              </State>
-              <State>
-                <id>Resource management issuesJava</id>
-              </State>
-              <State>
-                <id>Scala</id>
-              </State>
-              <State>
-                <id>Security issuesJava</id>
-              </State>
-              <State>
-                <id>Size CollectionsScala</id>
-              </State>
-              <State>
-                <id>Spring</id>
-              </State>
-              <State>
-                <id>Spring BootSpring</id>
-              </State>
-              <State>
-                <id>Spring CoreSpring</id>
-              </State>
-              <State>
-                <id>StyleGroovy</id>
-              </State>
-              <State>
-                <id>Threading issuesGroovy</id>
-              </State>
-              <State>
-                <id>Threading issuesJava</id>
-              </State>
-              <State>
-                <id>Velocity inspections</id>
-              </State>
-              <State>
-                <id>Visibility issuesJava</id>
-              </State>
-              <State>
-                <id>Web Services</id>
-              </State>
-              <State>
-                <id>WebSocket issues</id>
-              </State>
-              <State>
-                <id>XMLSpring CoreSpring</id>
-              </State>
-              <State>
-                <id>XPath</id>
-              </State>
-              <State>
-                <id>XSLT</id>
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>Android</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="false" project-jdk-name="1.7" project-jdk-type="JavaSDK" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="Local Java" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
         <property name="project.structure.last.edited" value="Project" />
-        <property name="project.structure.proportion" value="0.0" />
-        <property name="project.structure.side.proportion" value="0.2" />
-        <property name="settings.editor.selected.configurable" value="diff.base" />
+        <property name="project.structure.proportion" value="0.15" />
+        <property name="project.structure.side.proportion" value="0.0" />
+        <property name="settings.editor.selected.configurable" value="copyright" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+        <property name="JavaScriptPreferStrict" value="true" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
       </component>
-      <component name="RunManager" selected="WebSphere Server.was85">
+      <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
           <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
           <option name="PROGRAM_PARAMETERS" />
-          <predefined_log_file id="idea.log" enabled="true" />
           <method />
         </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
@@ -393,85 +156,16 @@
           <listeners />
           <method />
         </configuration>
-        <configuration default="true" type="WebSphereRunConfigurationType" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
-          <option name="PORT" value="9080" />
-          <deployment />
-          <server-settings>
-            <option name="PROFILE_PATH" value="" />
-            <option name="SOAP_PORT" value="8880" />
-            <option name="CELL_NAME" value="" />
-            <option name="NODE_NAME" value="" />
-            <option name="SERVER_NAME" value="" />
-            <option name="SECURED" value="false" />
-            <option name="CLIENT_TRUST_FILE_PATH" value="" />
-            <option name="CLIENT_TRUST_PASSWORD" value="WebAS" />
-            <option name="CLIENT_KEY_FILE_PATH" value="" />
-            <option name="CLIENT_KEY_PASSWORD" value="WebAS" />
-            <option name="USERNAME" value="" />
-            <option name="PASSWORD" value="" />
-          </server-settings>
-          <predefined_log_file id="WebSphere" enabled="true" />
-          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-          <RunnerSettings RunnerId="Debug">
-            <option name="DEBUG_PORT" value="1329" />
-          </RunnerSettings>
-          <ConfigurationWrapper VM_VAR="DEBUG" RunnerId="Cover">
-            <option name="USE_ENV_VARIABLES" value="true" />
-            <STARTUP>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </STARTUP>
-            <SHUTDOWN>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </SHUTDOWN>
-          </ConfigurationWrapper>
-          <ConfigurationWrapper VM_VAR="DEBUG" RunnerId="Debug">
-            <option name="USE_ENV_VARIABLES" value="true" />
-            <STARTUP>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </STARTUP>
-            <SHUTDOWN>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </SHUTDOWN>
-          </ConfigurationWrapper>
-          <ConfigurationWrapper VM_VAR="DEBUG" RunnerId="Run">
-            <option name="USE_ENV_VARIABLES" value="true" />
-            <STARTUP>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </STARTUP>
-            <SHUTDOWN>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </SHUTDOWN>
-          </ConfigurationWrapper>
-          <method />
-        </configuration>
-        <configuration default="false" name="was85" type="WebSphereRunConfigurationType" factoryName="Local" APPLICATION_SERVER_NAME="WebSphere 8.5" ALTERNATIVE_JRE_ENABLED="false">
+        <configuration default="true" type="WebSphereRunConfigurationType" factoryName="Local" APPLICATION_SERVER_NAME="WebSphere 8.5" ALTERNATIVE_JRE_ENABLED="false">
           <option name="PORT" value="9080" />
           <option name="OPEN_IN_BROWSER" value="false" />
           <option name="UPDATING_POLICY" value="restart-server" />
           <deployment />
           <server-settings>
-            <option name="PROFILE_PATH" value="C:/buildworkspace/websphere-profiles/was85" />
+            <option name="PROFILE_PATH" value="C:/Buildworkspace/tools/profiles/AppSrv06" />
             <option name="SOAP_PORT" value="8880" />
-            <option name="CELL_NAME" value="DID29370Node01Cell" />
-            <option name="NODE_NAME" value="DID29370Node01" />
+            <option name="CELL_NAME" value="DID29433Node03Cell" />
+            <option name="NODE_NAME" value="DID29433Node03" />
             <option name="SERVER_NAME" value="server1" />
             <option name="SECURED" value="false" />
             <option name="CLIENT_TRUST_FILE_PATH" value="" />
@@ -484,7 +178,7 @@
           <predefined_log_file id="WebSphere" enabled="true" />
           <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
           <RunnerSettings RunnerId="Debug">
-            <option name="DEBUG_PORT" value="1329" />
+            <option name="DEBUG_PORT" value="45182" />
           </RunnerSettings>
           <ConfigurationWrapper VM_VAR="DEBUG" RunnerId="Cover">
             <option name="USE_ENV_VARIABLES" value="true" />
@@ -533,9 +227,6 @@
           </ConfigurationWrapper>
           <method />
         </configuration>
-        <list size="1">
-          <item index="0" class="java.lang.String" itemvalue="WebSphere Server.was85" />
-        </list>
       </component>
       <component name="masterDetails">
         <states>
@@ -564,7 +255,7 @@
           </state>
           <state key="JdkListConfigurable.UI">
             <settings>
-              <last-edited>1.7</last-edited>
+              <last-edited>Local Java</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
@@ -576,7 +267,7 @@
           </state>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.7</last-edited>
+              <last-edited>Local Java</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
@@ -599,7 +290,7 @@
           </state>
           <state key="ScopeChooserConfigurable.UI">
             <settings>
-              <last-edited>GL</last-edited>
+              <last-edited>GL_JAVA</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
@@ -608,7 +299,7 @@
                 </option>
               </splitter-proportions>
               <order>
-                <scope name="GL" />
+                <scope name="GL_JAVA" />
               </order>
             </settings>
           </state>

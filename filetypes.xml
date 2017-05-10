@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="wsadmin-old" type="PLAIN_TEXT" />
+      <mapping pattern="updateHoldChangeTracker" type="JavaScript" />
+      <mapping pattern="promptUtil.js" type="PLAIN_TEXT" />
       <mapping ext="ps1" type="PLAIN_TEXT" />
-      <mapping ext="epoch" type="PLAIN_TEXT" />
+      <mapping pattern="promptUtil" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
