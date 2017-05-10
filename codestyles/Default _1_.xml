@@ -11,7 +11,7 @@
       <emptyLine />
       <package name="org" withSubpackages="true" static="false" />
       <emptyLine />
-      <package name="com.greatlakes" withSubpackages="true" static="false" />
+      <package name="com.mygreatlakes" withSubpackages="true" static="false" />
       <emptyLine />
       <package name="org.mygreatlakes" withSubpackages="true" static="false" />
       <emptyLine />
