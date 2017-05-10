@@ -1,0 +1,17 @@
+<application>
+  <component name="EqualsHashCodeTemplates">
+    <option name="defaultTempalteName" value="GL Equals/HashCodeBuilder (Apache commons-lang 3) equals" />
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="GL Equals/HashCodeBuilder (Apache commons-lang 3) equals" />
+          <option name="template" value="public boolean equals(##&#10;#if ($settings.generateFinalParameters)&#10;final ##&#10;#end&#10;Object object){&#10;&#10;        if (null != object) {&#10;            if (this == object) {&#10;                return true;&#10;            }&#10;            &#10;            if (this.getClass() == object.getClass()) {&#10;                final $class.name compare = ($class.name) object;&#10;                /* @formatter:off */&#10;                return new EqualsBuilder()&#10;                            #if($superHasEquals)&#10;                            .appendSuper(super.equals(compare))&#10;                            #end&#10;                            #foreach($field in $fields)&#10;                            .append($field.accessor, compare.$field.accessor)&#10;                            #end&#10;                            .isEquals();&#10;                /* @formatter:on */&#10;            }&#10;        }&#10;        &#10;        return false;&#10;}" />
+        </TemplateResource>
+        <TemplateResource>
+          <option name="fileName" value="GL Equals/HashCodeBuilder (Apache commons-lang 3) hashCode" />
+          <option name="template" value="public int hashCode() {&#10;        /* @formatter:off */&#10;        return new HashCodeBuilder()&#10;            #if($superHasHashCode)&#10;            .appendSuper(super.hashCode())&#10;            #end&#10;            #foreach($field in $fields)&#10;            .append($field.accessor)&#10;            #end&#10;            .toHashCode();&#10;        /* @formatter:on */&#10;}" />
+        </TemplateResource>
+      </list>
+    </option>
+  </component>
+</application>
