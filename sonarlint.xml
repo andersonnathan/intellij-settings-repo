@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.glhec.org" />
+          <token>dfcfdf92dfcbdf93df9adfcedf93df9cdf92df9bdf99df9fdfcbdfcbdfc8df99df9adf9adf99dfc9df92df9fdf9adf9adf9fdfcedf98dfcfdf93dfcedfcedf93dfcedfccdf9ddfccdf9adf93dfcfdf9c</token>
+          <option name="name" value="gl-sonar" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>

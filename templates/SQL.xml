@@ -1,0 +1,18 @@
+<templateSet group="SQL">
+  <template name="actx-where" value="(A.DESC_TX LIKE ?&#10;AND A.ACT_LOG_ENTR_GP BETWEEN TIMESTAMP(?) and TIMESTAMP(?)&#10;AND a.ACCT_ID_NR in(?))" description="adds where clause for selecting from ACTX" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+  <template name="bad-payment" value="SELECT *&#10;FROM PROD.ACTX&#10;WHERE&#10;  (ACT_LOG_ENTR_GP = $ACT_LOG_ENTR_GP$ AND ACCT_ID_NR = $ACCT_ID_NR$)&#10;WITH UR;&#10;&#10;SELECT *&#10;FROM PROD.ACTLG&#10;WHERE&#10;  (ENTR_GP = $ACT_LOG_ENTR_GP$ AND ACCT_ID_NR = $ACCT_ID_NR$)&#10;WITH UR;&#10;&#10;DELETE FROM PROD.ACTX&#10;WHERE&#10;  (ACT_LOG_ENTR_GP = $ACT_LOG_ENTR_GP$ AND ACCT_ID_NR = $ACCT_ID_NR$);&#10;&#10;COMMIT;&#10;&#10;DELETE FROM PROD.ACTLG&#10;WHERE&#10;  (ENTR_GP = $ACT_LOG_ENTR_GP$ AND ACCT_ID_NR = $ACCT_ID_NR$);&#10;&#10;COMMIT;&#10;&#10;SELECT *&#10;FROM PROD.ACTX&#10;WHERE&#10;  (ACT_LOG_ENTR_GP = $ACT_LOG_ENTR_GP$ AND ACCT_ID_NR = $ACCT_ID_NR$)&#10;WITH UR;&#10;&#10;SELECT *&#10;FROM PROD.ACTLG&#10;WHERE&#10;  (ENTR_GP = $ACT_LOG_ENTR_GP$ AND ACCT_ID_NR = $ACCT_ID_NR$)&#10;WITH UR;&#10;&#10;&#10;SELECT *&#10;FROM PROD.PODTRN&#10;WHERE ACCT_TOKEN_NR = $ACCT_TOKEN_NR$&#10;      AND PMT_ENTR_GP = $PMT_ENTR_GP$&#10;      AND SERV_ACCT_GP_ID_NR = $SERV_ACCT_GP_ID_NR$&#10;      AND PMT_BY_SSN_NR = $ACCT_ID_NR$&#10;      AND PMT_REQ_AT = $PMT_REQ_AT$&#10;WITH UR;&#10;&#10;DELETE FROM PROD.PODTRN&#10;WHERE ACCT_TOKEN_NR = $ACCT_TOKEN_NR$&#10;      AND PMT_ENTR_GP = $PMT_ENTR_GP$&#10;      AND SERV_ACCT_GP_ID_NR = $SERV_ACCT_GP_ID_NR$&#10;      AND PMT_BY_SSN_NR = $ACCT_ID_NR$&#10;      AND PMT_REQ_AT = $PMT_REQ_AT$;&#10;&#10;COMMIT;&#10;&#10;SELECT *&#10;FROM PROD.PODTRN&#10;WHERE ACCT_TOKEN_NR = $ACCT_TOKEN_NR$&#10;      AND PMT_ENTR_GP = $PMT_ENTR_GP$&#10;      AND SERV_ACCT_GP_ID_NR = $SERV_ACCT_GP_ID_NR$&#10;      AND PMT_BY_SSN_NR = $ACCT_ID_NR$&#10;      AND PMT_REQ_AT = $PMT_REQ_AT$&#10;WITH UR;" description="dbedit bad payment" toReformat="false" toShortenFQNames="true">
+    <variable name="ACT_LOG_ENTR_GP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACCT_ID_NR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACCT_TOKEN_NR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PMT_ENTR_GP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SERV_ACCT_GP_ID_NR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PMT_REQ_AT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>
