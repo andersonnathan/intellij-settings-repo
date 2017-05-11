@@ -1,23 +1,27 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="preserveCase" value="true" />
-    <option name="PRESERVE_CASE_REPLACE" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '[borrower-api-web] - ...\borrower-api-web\src\main\java\org\mygreatlakes\borrower\api\paymenthistory\PaymentHistoryServiceImpl.java'" />
+    <option name="defaultScopeName" value="File '[borrower-api-web] - ...\borrower-api-web\src\main\java\org\mygreatlakes\borrower\api\paymenthistory\PaymentHistoryServiceImpl.java'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File '[borrower-api-web] - ...\borrower-api-web\src\main\java\org\mygreatlakes\borrower\api\paymenthistory\PaymentHistoryServiceImpl.java'" />
     <recentFileMasks>
-      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.less</mask>
-      <mask>.py</mask>
-      <mask>*.py</mask>
-      <mask>*.js</mask>
+      <mask>strings*</mask>
+      <mask>*style*</mask>
       <mask>*.xml</mask>
-      <mask>*.jsp</mask>
-      <mask>*.html</mask>
+      <mask>*.properties</mask>
+      <mask>spring*.xml</mask>
+      <mask>*</mask>
       <mask>*.java</mask>
+      <mask>pom.xml</mask>
+      <mask>*Config.java</mask>
+      <mask>*controller.java</mask>
     </recentFileMasks>
   </component>
 </application>
