@@ -1,24 +1,27 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="localRegularExpressions" value="true" />
+    <option name="customScope" value="File '[borrower-api-web] - ...\borrower-api-web\src\main\java\org\mygreatlakes\borrower\api\paymenthistory\PaymentHistoryServiceImpl.java'" />
+    <option name="defaultScopeName" value="File '[borrower-api-web] - ...\borrower-api-web\src\main\java\org\mygreatlakes\borrower\api\paymenthistory\PaymentHistoryServiceImpl.java'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="File '[borrower-api-web] - ...\borrower-api-web\src\main\java\org\mygreatlakes\borrower\api\paymenthistory\PaymentHistoryServiceImpl.java'" />
     <recentFileMasks>
-      <mask>*.properties</mask>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.java</mask>
+      <mask>strings*</mask>
+      <mask>*style*</mask>
       <mask>*.xml</mask>
-      <mask>*Test.java</mask>
+      <mask>*.properties</mask>
+      <mask>spring*.xml</mask>
+      <mask>*</mask>
+      <mask>*.java</mask>
       <mask>pom.xml</mask>
+      <mask>*Config.java</mask>
+      <mask>*controller.java</mask>
     </recentFileMasks>
   </component>
 </application>

@@ -1,0 +1,195 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="DB2 - DSND" uuid="9e0d677b-57d5-43f1-aa24-c0320ecb0ae6">
+      <driver-ref>1f646694-bbd6-4859-8f49-e5a064d46ae5</driver-ref>
+      <jdbc-driver>com.ibm.db2.jcc.DB2Driver</jdbc-driver>
+      <jdbc-url>jdbc:db2://GLHEJESD.GLHEC.ORG:451/DSND</jdbc-url>
+      <driver-properties>
+        <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+        <property name="sslConnection" value="true" />
+      </driver-properties>
+      <libraries>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/Common.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2dbgm.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2java.zip</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc4.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc_license_cisuz.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc_license_cu.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2policy.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2qgjava.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2umplugin.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/sqlj.zip</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/sqlj4.zip</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="DB2 - DSNR" uuid="50377f40-f5c8-4b49-9ff9-40706acebc17">
+      <driver-ref>1f646694-bbd6-4859-8f49-e5a064d46ae5</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>com.ibm.db2.jcc.DB2Driver</jdbc-driver>
+      <jdbc-url>jdbc:db2://GLHEJESP.GLHEC.ORG:454/DSNR</jdbc-url>
+      <driver-properties>
+        <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+        <property name="sslConnection" value="true" />
+      </driver-properties>
+      <libraries>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/Common.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2dbgm.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2java.zip</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc4.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc_license_cisuz.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc_license_cu.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2policy.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2qgjava.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2umplugin.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/sqlj.zip</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/sqlj4.zip</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="DB2 - DSNP" uuid="17526304-49ee-4880-b704-ac7107469f2b">
+      <driver-ref>1f646694-bbd6-4859-8f49-e5a064d46ae5</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>com.ibm.db2.jcc.DB2Driver</jdbc-driver>
+      <jdbc-url>jdbc:db2://GLHEJESP.GLHEC.ORG:452/DSNP</jdbc-url>
+      <driver-properties>
+        <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+        <property name="sslConnection" value="true" />
+      </driver-properties>
+      <libraries>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/Common.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2dbgm.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2java.zip</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc4.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc_license_cisuz.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc_license_cu.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2policy.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2qgjava.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2umplugin.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/sqlj.zip</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/sqlj4.zip</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="DB2 - DSNC" uuid="73408497-44e8-4df8-9a72-d6a78dafbf3f">
+      <driver-ref>1f646694-bbd6-4859-8f49-e5a064d46ae5</driver-ref>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>com.ibm.db2.jcc.DB2Driver</jdbc-driver>
+      <jdbc-url>jdbc:db2://GLHEJESP.GLHEC.ORG:455/DSNC</jdbc-url>
+      <driver-properties>
+        <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
+        <property name="sslConnection" value="true" />
+      </driver-properties>
+      <libraries>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/Common.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2dbgm.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2java.zip</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc4.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc_license_cisuz.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2jcc_license_cu.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2policy.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2qgjava.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/db2umplugin.jar</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/sqlj.zip</url>
+        </library>
+        <library>
+          <url>file://C:/Program Files/IBM/SQLLIB/java/sqlj4.zip</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</application>

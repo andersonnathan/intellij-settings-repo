@@ -1,11 +1,5 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="org.glhec.workflow.service.common.domain.AuditRecord.AuditRecord(createSourceTypeCode,createSourceText,lastUpdateSourceTypeCode,lastUpdateSourceText,lastUpdateTimestamp,createTimestamp)" />
-        <added pattern="org.glhec.workflow.service.message.BorrowerIdentity.BorrowerIdentity(personTokenNr,externalSsnNr)" />
-        <added pattern="org.mockito.Mockito.times(wantedNumberOfInvocations)" />
-      </blacklist>
-    </blacklists>
+    <blacklists />
   </component>
 </application>

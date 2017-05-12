@@ -1,4 +1,5 @@
 <application>
+  <component name="DiffManager" COMPARISON_POLICY="Ignore spaces" />
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
@@ -11,6 +12,7 @@
         <PlaceSettings>
           <option name="DIFF_TOOLS_ORDER">
             <list>
+              <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
               <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
               <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
               <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
@@ -39,6 +41,7 @@
     <option name="PLACES_MAP">
       <entry key="ChangesView">
         <PlaceSettings>
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
           <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
@@ -48,11 +51,6 @@
         </PlaceSettings>
       </entry>
       <entry key="Default">
-        <PlaceSettings>
-          <option name="SHOW_WHITESPACES" value="true" />
-        </PlaceSettings>
-      </entry>
-      <entry key="Merge">
         <PlaceSettings />
       </entry>
       <entry key="TestsFiledAssertions">

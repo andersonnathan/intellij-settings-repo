@@ -1,180 +1,37 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="CopyrightManager" default="GL_JAVA">
-        <copyright>
-          <option name="myName" value="GL_JAVA" />
-          <option name="notice" value="This program is protected by copyright and other intellectual property law.&#10;It is proprietary to and includes confidential information of Great Lakes&#10;Higher Education Corporation and Affiliates (Great Lakes). This program may&#10;be disclosed and/or used only as authorized in a license agreement between&#10;Great Lakes and the user authorizing and controlling such use and disclosure." />
-        </copyright>
-        <module2copyright>
-          <element module="All" copyright="GL_JAVA" />
-        </module2copyright>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="C:/Buildworkspace/source/mobile/R2-11374" value="4357598050619" />
+            <entry key="C:/Buildworkspace/source/mobile/android" value="2901628204716" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
       </component>
       <component name="InspectionProjectProfileManager">
         <option name="PROJECT_PROFILE" />
         <version value="1.0" />
       </component>
-      <component name="MavenImportPreferences">
-        <option name="generalSettings">
-          <MavenGeneralSettings>
-            <option name="mavenHome" value="T:/Edc/incubator/apache-maven-3.3.3" />
-            <option name="userSettingsFile" value="T:\Edc\incubator\apache-maven-3.3.3\conf\settings.xml" />
-          </MavenGeneralSettings>
-        </option>
-        <option name="importingSettings">
-          <MavenImportingSettings>
-            <option name="downloadDocsAutomatically" value="true" />
-            <option name="downloadSourcesAutomatically" value="true" />
-            <option name="importAutomatically" value="true" />
-          </MavenImportingSettings>
-        </option>
-      </component>
-      <component name="NamedScopeManager">
-        <scope name="GL" pattern="file:*.java" />
-      </component>
-      <component name="ProjectInspectionProfilesVisibleTreeState">
-        <entry key="Project Default">
-          <profile-state>
-            <expanded-state>
-              <State>
-                <id />
-              </State>
-              <State>
-                <id>Android</id>
-              </State>
-              <State>
-                <id>Android Lint</id>
-              </State>
-              <State>
-                <id>ArquillianJava</id>
-              </State>
-              <State>
-                <id>Bean Validation issues</id>
-              </State>
-              <State>
-                <id>Class structureJava</id>
-              </State>
-              <State>
-                <id>Code quality toolsJavaScript</id>
-              </State>
-              <State>
-                <id>CorrectnessLintAndroid</id>
-              </State>
-              <State>
-                <id>DOM issuesJavaScript</id>
-              </State>
-              <State>
-                <id>Data flow issuesJava</id>
-              </State>
-              <State>
-                <id>Declaration redundancyJava</id>
-              </State>
-              <State>
-                <id>Dependency issuesJava</id>
-              </State>
-              <State>
-                <id>Error handlingJava</id>
-              </State>
-              <State>
-                <id>FlexUnit inspections</id>
-              </State>
-              <State>
-                <id>Groovy</id>
-              </State>
-              <State>
-                <id>JSP Inspections</id>
-              </State>
-              <State>
-                <id>JUnit issuesJava</id>
-              </State>
-              <State>
-                <id>Java</id>
-              </State>
-              <State>
-                <id>JavaScript</id>
-              </State>
-              <State>
-                <id>Kotlin</id>
-              </State>
-              <State>
-                <id>LintAndroid</id>
-              </State>
-              <State>
-                <id>Logging issuesJava</id>
-              </State>
-              <State>
-                <id>Memory issuesJava</id>
-              </State>
-              <State>
-                <id>Modularization issuesJava</id>
-              </State>
-              <State>
-                <id>OSGi</id>
-              </State>
-              <State>
-                <id>Packaging issuesJava</id>
-              </State>
-              <State>
-                <id>Pattern Validation</id>
-              </State>
-              <State>
-                <id>Portability issuesJava</id>
-              </State>
-              <State>
-                <id>Potentially confusing code constructsGroovy</id>
-              </State>
-              <State>
-                <id>Probable bugsJava</id>
-              </State>
-              <State>
-                <id>Security issuesJava</id>
-              </State>
-              <State>
-                <id>Serialization issuesJava</id>
-              </State>
-              <State>
-                <id>Spring</id>
-              </State>
-              <State>
-                <id>Spring AOPSpring</id>
-              </State>
-              <State>
-                <id>Spring CoreSpring</id>
-              </State>
-              <State>
-                <id>Threading issuesGroovy</id>
-              </State>
-              <State>
-                <id>Threading issuesJava</id>
-              </State>
-              <State>
-                <id>WebSocket issues</id>
-              </State>
-              <State>
-                <id>XMLSpring CoreSpring</id>
-              </State>
-              <State>
-                <id>XPath</id>
-              </State>
-            </expanded-state>
-            <selected-state>
-              <State>
-                <id>Android</id>
-              </State>
-            </selected-state>
-          </profile-state>
-        </entry>
-      </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" project-jdk-name="1.7" project-jdk-type="JavaSDK" />
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="true" project-jdk-name="WAS 8.5 JDK-1.7" project-jdk-type="JavaSDK" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="database.main" />
+        <property name="android.sdk.path" value="C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows" />
+        <property name="android.project.structure.last.selected" value="SDK Location" />
+        <property name="android.project.structure.proportion" value="0.15" />
+        <property name="last_opened_file_path" value="C:/Buildworkspace/source/mobile/android" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="project.structure.last.edited" value="Project" />
         <property name="project.structure.proportion" value="0.0" />
-        <property name="project.structure.side.proportion" value="0.2" />
-        <property name="nodejs_interpreter_path" value="C:/Buildworkspace/tools/node/node" />
-        <property name="js.eslint.eslintPackage" value="" />
+        <property name="project.structure.side.proportion" value="0.31367043" />
       </component>
-      <component name="RunManager" selected="WebSphere Server.WebSphere 8.5">
+      <component name="RunManager">
         <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
           <module name="" />
           <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -246,7 +103,7 @@
           <option name="TEST_OBJECT" value="CLASS" />
           <option name="VM_PARAMETERS" value="-ea" />
           <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
           <option name="OUTPUT_DIRECTORY" />
           <option name="ANNOTATION_TYPE" />
           <option name="ENV_VARIABLES" />
@@ -261,166 +118,12 @@
           <listeners />
           <method />
         </configuration>
-        <configuration default="true" type="WebSphereRunConfigurationType" factoryName="Local" APPLICATION_SERVER_NAME="WebSphere 8.5" ALTERNATIVE_JRE_ENABLED="false">
-          <option name="PORT" value="9080" />
-          <option name="BROWSER_ID" value="16bf23d4-93e0-4ffc-bfd6-cb13575177b0" />
-          <option name="UPDATING_POLICY" value="restart-server" />
-          <deployment />
-          <server-settings>
-            <option name="PROFILE_PATH" value="C:/Buildworkspace/tools/profiles/AppSrv01" />
-            <option name="SOAP_PORT" value="8880" />
-            <option name="CELL_NAME" value="DID70257Node01Cell" />
-            <option name="NODE_NAME" value="DID70257Node01" />
-            <option name="SERVER_NAME" value="server1" />
-            <option name="SECURED" value="false" />
-            <option name="CLIENT_TRUST_FILE_PATH" value="" />
-            <option name="CLIENT_TRUST_PASSWORD" value="WebAS" />
-            <option name="CLIENT_KEY_FILE_PATH" value="" />
-            <option name="CLIENT_KEY_PASSWORD" value="WebAS" />
-            <option name="USERNAME" value="" />
-            <option name="PASSWORD" value="" />
-          </server-settings>
-          <predefined_log_file id="WebSphere" enabled="true" />
-          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-          <RunnerSettings RunnerId="Debug">
-            <option name="DEBUG_PORT" value="27595" />
-          </RunnerSettings>
-          <ConfigurationWrapper VM_VAR="DEBUG" RunnerId="Cover">
-            <option name="USE_ENV_VARIABLES" value="true" />
-            <STARTUP>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </STARTUP>
-            <SHUTDOWN>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </SHUTDOWN>
-          </ConfigurationWrapper>
-          <ConfigurationWrapper VM_VAR="DEBUG" RunnerId="Debug">
-            <option name="USE_ENV_VARIABLES" value="true" />
-            <STARTUP>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </STARTUP>
-            <SHUTDOWN>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </SHUTDOWN>
-          </ConfigurationWrapper>
-          <ConfigurationWrapper VM_VAR="DEBUG" RunnerId="Run">
-            <option name="USE_ENV_VARIABLES" value="true" />
-            <STARTUP>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </STARTUP>
-            <SHUTDOWN>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </SHUTDOWN>
-          </ConfigurationWrapper>
-          <method />
-        </configuration>
-        <configuration default="false" name="WebSphere 8.5" type="WebSphereRunConfigurationType" factoryName="Local" APPLICATION_SERVER_NAME="WebSphere 8.5" ALTERNATIVE_JRE_ENABLED="false">
-          <option name="PORT" value="9080" />
-          <option name="BROWSER_ID" value="16bf23d4-93e0-4ffc-bfd6-cb13575177b0" />
-          <option name="UPDATING_POLICY" value="restart-server" />
-          <deployment />
-          <server-settings>
-            <option name="PROFILE_PATH" value="C:/Buildworkspace/tools/profiles/AppSrv01" />
-            <option name="SOAP_PORT" value="8880" />
-            <option name="CELL_NAME" value="DID70257Node01Cell" />
-            <option name="NODE_NAME" value="DID70257Node01" />
-            <option name="SERVER_NAME" value="server1" />
-            <option name="SECURED" value="false" />
-            <option name="CLIENT_TRUST_FILE_PATH" value="" />
-            <option name="CLIENT_TRUST_PASSWORD" value="WebAS" />
-            <option name="CLIENT_KEY_FILE_PATH" value="" />
-            <option name="CLIENT_KEY_PASSWORD" value="WebAS" />
-            <option name="USERNAME" value="" />
-            <option name="PASSWORD" value="" />
-          </server-settings>
-          <predefined_log_file id="WebSphere" enabled="true" />
-          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-          <RunnerSettings RunnerId="Debug">
-            <option name="DEBUG_PORT" value="27595" />
-          </RunnerSettings>
-          <ConfigurationWrapper VM_VAR="DEBUG" RunnerId="Cover">
-            <option name="USE_ENV_VARIABLES" value="true" />
-            <STARTUP>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </STARTUP>
-            <SHUTDOWN>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </SHUTDOWN>
-          </ConfigurationWrapper>
-          <ConfigurationWrapper VM_VAR="DEBUG" RunnerId="Debug">
-            <option name="USE_ENV_VARIABLES" value="true" />
-            <STARTUP>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </STARTUP>
-            <SHUTDOWN>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </SHUTDOWN>
-          </ConfigurationWrapper>
-          <ConfigurationWrapper VM_VAR="DEBUG" RunnerId="Run">
-            <option name="USE_ENV_VARIABLES" value="true" />
-            <STARTUP>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </STARTUP>
-            <SHUTDOWN>
-              <option name="USE_DEFAULT" value="true" />
-              <option name="SCRIPT" value="" />
-              <option name="VM_PARAMETERS" value="" />
-              <option name="PROGRAM_PARAMETERS" value="" />
-            </SHUTDOWN>
-          </ConfigurationWrapper>
-          <method />
-        </configuration>
-        <list size="1">
-          <item index="0" class="java.lang.String" itemvalue="WebSphere Server.WebSphere 8.5" />
-        </list>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\bielbyrj\AppData\Roaming\Subversion</configuration>
       </component>
       <component name="masterDetails">
         <states>
-          <state key="Copyright.UI">
-            <settings>
-              <last-edited>GL_JAVA</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
           <state key="GlobalLibrariesConfigurable.UI">
             <settings>
               <splitter-proportions>
@@ -434,7 +137,7 @@
           </state>
           <state key="JdkListConfigurable.UI">
             <settings>
-              <last-edited>1.7</last-edited>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
@@ -446,7 +149,7 @@
           </state>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.7</last-edited>
+              <last-edited>WAS 8.5 JDK-1.7</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
@@ -461,25 +164,10 @@
               <splitter-proportions>
                 <option name="proportions">
                   <list>
-                    <option value="0.2" />
+                    <option value="0.31367043" />
                   </list>
                 </option>
               </splitter-proportions>
-            </settings>
-          </state>
-          <state key="ScopeChooserConfigurable.UI">
-            <settings>
-              <last-edited>GL</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-              <order>
-                <scope name="GL" />
-              </order>
             </settings>
           </state>
         </states>

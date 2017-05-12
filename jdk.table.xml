@@ -1,7 +1,237 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="1.7" />
+      <name value="Android API 17 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.7.0&quot;" />
+      <homePath value="C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/platforms/android-17/android.jar!/" />
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/platforms/android-17/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/sources/android-17" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="WAS 8.5 JDK-1.7" sdk="android-17" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 19 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.7.0&quot;" />
+      <homePath value="C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/platforms/android-19/android.jar!/" />
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/platforms/android-19/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/sources/android-19" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="WAS 8.5 JDK-1.7" sdk="android-19" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 20 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.7.0&quot;" />
+      <homePath value="C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/platforms/android-20/android.jar!/" />
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/platforms/android-20/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/sources/android-20" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="WAS 8.5 JDK-1.7" sdk="android-20" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 21 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.7.0&quot;" />
+      <homePath value="C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/platforms/android-21/android.jar!/" />
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/platforms/android-21/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/sources/android-21" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="WAS 8.5 JDK-1.7" sdk="android-21" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 22 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.7.0&quot;" />
+      <homePath value="C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/platforms/android-22/android.jar!/" />
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/platforms/android-22/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/sources/android-22" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="WAS 8.5 JDK-1.7" sdk="android-22" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 23 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.7.0&quot;" />
+      <homePath value="C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/platforms/android-23/android.jar!/" />
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/platforms/android-23/data/res" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Buildworkspace/android-sdk_r24.3.2-windows/android-sdk-windows/sources/android-23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="WAS 8.5 JDK-1.7" sdk="android-23" />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_101&quot;" />
+      <homePath value="C:/Program Files/Java/jdk1.8.0_101" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/ext/access-bridge-64.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/jre/lib/rt.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_101/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="WAS 8.5 JDK-1.7" />
       <type value="JavaSDK" />
       <version value="java version &quot;1.7.0&quot;" />
       <homePath value="C:/Program Files/IBM/WebSphere85/AppServer/java_1.7.1_64" />
@@ -60,6 +290,8 @@
             <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java_1.7.1_64/jre/lib/ibmpkcs.jar!/" />
             <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java_1.7.1_64/jre/lib/ibmsaslfw.jar!/" />
             <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java_1.7.1_64/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java_1.7.1_64/jre/lib/jlm.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java_1.7.1_64/jre/lib/jlm.src.jar!/" />
             <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java_1.7.1_64/jre/lib/management-agent.jar!/" />
             <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java_1.7.1_64/jre/lib/math.jar!/" />
             <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java_1.7.1_64/jre/lib/plugin.jar!/" />
@@ -78,140 +310,6 @@
         <sourcePath>
           <root type="composite">
             <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java_1.7.1_64/src.zip!/" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="1.6" />
-      <type value="JavaSDK" />
-      <version value="java version &quot;1.6.0&quot;" />
-      <homePath value="C:/Program Files/IBM/WebSphere85/AppServer/java" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/bin/default/jclSC160/vm.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/annotation.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/beans.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/charsets.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/deploy.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/CmpCrmf.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/IBMSecureRandom.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/JavaDiagnosticsCollector.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/JawBridge.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/dnsns.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/dtfj-interface.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/dtfj.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/dtfjview.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/gskikm.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/healthcenter.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/ibmcac.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/ibmcmsprovider.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/ibmjcefips.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/ibmjceprovider.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/ibmkeycert.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/ibmpkcs11impl.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/ibmsaslprovider.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/ibmspnego.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/ibmxmlcrypto.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/ibmxmlencprovider.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/iwsorbutil.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/jaccess.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/jdmpview.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/localedata.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/traceformat.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ext/xmlencfw.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ibmcertpathfw.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ibmcertpathprovider.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ibmcfw.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ibmjcefw.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ibmjgssfw.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ibmjgssprovider.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ibmjssefw.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ibmjsseprovider2.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ibmorb.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ibmorbapi.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ibmpkcs.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/ibmsaslfw.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/j9zip.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/java.util.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/javascript.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/javaws.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/jlm.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/jndi.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/logging.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/management-agent.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/plugin.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/resources.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/rt.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/security.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/sql.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/xml.jar!/" />
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/jre/lib/xmldsigfw.jar!/" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="jar://C:/Program Files/IBM/WebSphere85/AppServer/java/src.zip!/" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="1.8" />
-      <type value="JavaSDK" />
-      <version value="java version &quot;1.8.0_121&quot;" />
-      <homePath value="C:/Program Files (x86)/Java/jdk1.8.0_121" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/charsets.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/deploy.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/ext/access-bridge-32.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/ext/cldrdata.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/ext/dnsns.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/ext/jaccess.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/ext/jfxrt.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/ext/localedata.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/ext/nashorn.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/ext/sunec.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/ext/sunjce_provider.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/ext/sunmscapi.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/ext/sunpkcs11.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/ext/zipfs.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/javaws.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/jce.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/jfr.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/jfxswt.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/jsse.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/management-agent.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/plugin.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/resources.jar!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/jre/lib/rt.jar!/" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite" />
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/src.zip!/" />
-            <root type="simple" url="jar://C:/Program Files (x86)/Java/jdk1.8.0_121/javafx-src.zip!/" />
           </root>
         </sourcePath>
       </roots>
