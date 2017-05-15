@@ -1,3 +1,3 @@
 <application>
-  <component name="MavenVersion" version="2.x" vmOptions="-Xmx1024m" embedderJdk="1.8 (1)" mavenHome="T:/Edc/incubator/apache-maven-3.3.3" loggingLevel="DEBUG" />
+  <component name="MavenVersion" version="2.x" vmOptions="-Xmx1024m" embedderJdk="1.8 (1)" mavenHome="C:/Buildworkspace/local_maven/apache-maven-3.3.3" loggingLevel="DEBUG" />
 </application>
