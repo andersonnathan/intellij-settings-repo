@@ -1,7 +1,15 @@
 <application>
   <component name="DatabaseSettings">
-    <option name="reuse-result-tab" value="false" />
-    <option name="error-in-editor" value="false" />
+    <text-mode>
+      <parameter-patterns>
+        <parameter-pattern value="?\d+" />
+        <parameter-pattern value=":(\w+)" />
+        <parameter-pattern value="%\w+" scope="JAVA" />
+        <parameter-pattern value="$\{[^$\{\}]*\}" />
+        <parameter-pattern value="$\w+$" />
+        <parameter-pattern value="#(\w+)#" scope="XML" />
+      </parameter-patterns>
+    </text-mode>
     <csv-formats>
       <csv-format name="Tab Separated Values (TSV)">
         <data>

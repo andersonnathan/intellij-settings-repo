@@ -1,27 +1,28 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Module 'sdsfundingprocess-app'" />
+    <option name="defaultScopeName" value="Module 'sdsfundingprocess-app'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Module 'sdsfundingprocess-app'" />
     <recentFileMasks>
-      <mask>*.html</mask>
+      <mask>*.properties</mask>
       <mask>*.jsp</mask>
-      <mask>*.js</mask>
+      <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>strings*</mask>
-      <mask>*style*</mask>
-      <mask>*.xml</mask>
-      <mask>*.properties</mask>
-      <mask>spring*.xml</mask>
-      <mask>*</mask>
-      <mask>*.java</mask>
+      <mask>*.xhtml</mask>
+      <mask>Adjustment*.xml</mask>
       <mask>pom.xml</mask>
-      <mask>*Config.java</mask>
-      <mask>*controller.java</mask>
+      <mask>*.html</mask>
+      <mask>*.js</mask>
+      <mask>*.xml</mask>
+      <mask>int-env.properties</mask>
+      <mask>uat-env.properties</mask>
+      <mask>prod-env.properties</mask>
     </recentFileMasks>
   </component>
 </application>

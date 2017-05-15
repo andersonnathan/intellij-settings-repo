@@ -1,0 +1,11 @@
+<templateSet group="Java">
+  <template name="nlist" value="$COLLECTION$ &lt;$TYPE$&gt; $NAME$ = new $COLLECTIONIMP$&lt;$TYPE$&gt;();" description="create new list" toReformat="false" toShortenFQNames="true">
+    <variable name="COLLECTION" expression="" defaultValue="List" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="COLLECTIONIMP" expression="" defaultValue="ArrayList" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

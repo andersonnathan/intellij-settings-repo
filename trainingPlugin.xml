@@ -1,7 +1,4 @@
 <application>
-  <component name="TrainingLangManager">
-    <option name="languageName" value="JAVA" />
-  </component>
   <component name="TrainingPluginModules">
     <option name="modules">
       <list>
@@ -32,6 +29,7 @@
               </Lesson>
             </list>
           </option>
+          <option name="mySdkType" value="JAVA" />
           <option name="name" value="Editor Basics" />
           <option name="moduleType" value="SCRATCH" />
         </course>
@@ -53,6 +51,7 @@
               </Lesson>
             </list>
           </option>
+          <option name="mySdkType" value="JAVA" />
           <option name="name" value="Completions" />
           <option name="moduleType" value="SCRATCH" />
         </course>
