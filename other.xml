@@ -6,18 +6,55 @@
           <State>
             <id />
           </State>
+<<<<<<< HEAD
         </expanded-state>
         <selected-state>
           <State>
             <id>Android</id>
           </State>
+=======
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android Lint</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="TempProfile">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android Lint</id>
+          </State>
+>>>>>>> parent of 4ba1f82... IU-2016.3.1 <bielbyrj@RID70670 Delete other.xml
         </selected-state>
       </profile-state>
     </entry>
   </component>
+<<<<<<< HEAD
   <component name="CodeStyleSchemesUIConfiguration">
     <option name="RECENT_IMPORT_FILE_LOCATION" value="file:C:/Buildworkspace/intellij-settings/eclipse java code style.xml" />
   </component>
+=======
+>>>>>>> parent of 4ba1f82... IU-2016.3.1 <bielbyrj@RID70670 Delete other.xml
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
@@ -66,6 +103,7 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="ImportConfiguration">
     <option name="VENDOR" />
     <option name="RELEASE_TAG" />
@@ -85,4 +123,37 @@
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
   </component>
+=======
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://svn.glhec.org/svn/standard" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://svn.glhec.org/svn/standard" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://svn.glhec.org/svn/standard/apps/borrower/mobile/android/branches/10205_excess_payment_preference">
+          <value>
+            <set>
+              <option value="C:\Buildworkspace\source\mobile\android" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+>>>>>>> parent of 4ba1f82... IU-2016.3.1 <bielbyrj@RID70670 Delete other.xml
 </application>
