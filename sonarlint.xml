@@ -1,11 +1,12 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <token>dfcbdf9ddfc8df9cdfcbdfcbdfcbdfcfdf99df99df98dfc8df92dfcedf98df9cdf9cdf93dfcfdf9ddf9fdf9adf98df93df9adfc9dfcbdf9bdfccdfcbdf99dfccdf99dfccdf92df9ddfcbdfc8dfcfdfcb</token>
           <option name="hostUrl" value="https://sonar.glhec.org" />
-          <option name="name" value="sonar.glhec.org" />
+          <token>df93df99dfcbdf9adf9fdfc9df98dfcbdf92df9adfcfdf9cdf93df9edf98df98df9fdf9edfcfdfcedf93df9bdfccdfccdf92df9ddf9cdf9adf9edfcedf98dfcfdf98df93df9bdf9adf98dfcedf92dfce</token>
+          <option name="name" value="Sonar" />
         </SonarQubeServer>
       </list>
     </option>
