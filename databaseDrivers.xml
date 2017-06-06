@@ -42,13 +42,10 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="db2" name="DB2 (LUW)" dialect="DB2">
-      <artifact name="DB2" use="true" version="4.9.78" />
+      <artifact name="DB2" rolling="false" use="true" version="4.9.78" />
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="true" />
       <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
-      <library>
-        <url>file://C:/Buildworkspace/database-drivers/db2jcc-10.1.jar</url>
-      </library>
       <library>
         <url>file://C:/Buildworkspace/database-drivers/db2jcc_license_cisuz-9.jar</url>
       </library>
