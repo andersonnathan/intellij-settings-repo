@@ -110,8 +110,9 @@
       </library>
     </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
-      <artifact name="JTOpen (DB2 iSeries)" use="true" />
+      <artifact name="JTOpen (DB2 iSeries)" use="true" version="8.3" />
       <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="true" />
       <property name="prompt" value="false" />
     </driver>
     <driver id="mysql" name="MySQL" dialect="MySQL">
