@@ -4,7 +4,7 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonar.glhec.org" />
-          <token>df93df99dfcbdf9adf9fdfc9df98dfcbdf92df9adfcfdf9cdf93df9edf98df98df9fdf9edfcfdfcedf93df9bdfccdfccdf92df9ddf9cdf9adf9edfcedf98dfcfdf98df93df9bdf9adf98dfcedf92dfce</token>
+          <token>df9bdf9cdf93df9cdf92df98df92df9fdfcbdf9ddf9fdf9adf98df98df9cdfcbdf9fdf9bdf9bdf9edfcedfcbdf9cdfcbdf9ddfcbdf9bdf9cdf9cdf98df93dfcedf9bdf99dfc8df93df98dfc8df99df93</token>
           <option name="name" value="Sonar" />
         </SonarQubeServer>
       </list>
